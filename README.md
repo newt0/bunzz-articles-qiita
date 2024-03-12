@@ -3,7 +3,7 @@
 Qiita CLI とは、手元の環境で記事の執筆・プレビュー・投稿ができるツールです。  
 Qiita CLI を使うことで、普段お使いのエディタなどを使って記事の執筆・投稿がしやすくなります。
 
-- よくあるお問い合わせ等を記載しております→[FAQ](#FAQ)
+- よくあるお問い合わせ等を記載しております →[FAQ](#FAQ)
 - 不具合やご意見などございましたら[Qiita Discussions](https://github.com/increments/qiita-discussions/discussions)へご投稿ください。
 
 ## ご利用の前に
@@ -134,9 +134,9 @@ npx qiita new 記事のファイルのベース名
 ---
 title: newArticle001 # 記事のタイトル
 tags:
-  - "" # タグ（ブロックスタイルで複数タグを追加できます）
+  - '' # タグ（ブロックスタイルで複数タグを追加できます）
 private: false # true: 限定共有記事 / false: 公開記事
-updated_at: "" # 記事を投稿した際に自動的に記事の更新日時に変わります
+updated_at: '' # 記事を投稿した際に自動的に記事の更新日時に変わります
 id: null # 記事を投稿した際に自動的に記事のUUIDに変わります
 organization_url_name: null # 関連付けるOrganizationのURL名
 slide: false # true: スライドモードON / false: スライドモードOFF
@@ -296,7 +296,7 @@ qiita.com からダウンロードして保存する記事に限定共有記事�
 
 現在、エラー内容が適切に表示できていない場合がございます。
 
-エラーを解決できない場合は、こちらのDiscussions も参考にしてみてください🙇  
+エラーを解決できない場合は、こちらの Discussions も参考にしてみてください 🙇  
 https://github.com/increments/qiita-discussions/discussions/561
 
 ## 不具合・ご意見は Discussions へ
