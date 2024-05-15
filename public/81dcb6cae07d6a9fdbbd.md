@@ -13,6 +13,7 @@ organization_url_name: bunzzdev
 slide: false
 ignorePublish: false
 ---
+
 :::note info
 本記事は下記の翻訳となります。
 [『MinimalForwarder Smart Contract Module in Bunzz』](https://blog.bunzz.dev/minimalforwarder-smart-contract-module-in-bunzz/)
@@ -30,7 +31,7 @@ ignorePublish: false
 
 ### 使用方法
 
-MinimalFowarder モジュールを使用するには、レシーバーコントラクトで[ERC2771Context](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/metatx/ERC2771Context.sol)を実装する必要があります。
+MinimalForwarder モジュールを使用するには、レシーバーコントラクトで[ERC2771Context](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/metatx/ERC2771Context.sol)を実装する必要があります。
 
 - このコントラクトには、最初は所有者のいない白いフラグオブジェクトがメモリにあります
 - 任意のユーザーは、契約の setFlagOwner メソッドを呼び出してフラグの所有権を主張し、好きな色でフラグを塗ることができます
