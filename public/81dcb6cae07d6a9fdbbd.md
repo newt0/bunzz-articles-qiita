@@ -7,7 +7,7 @@ tags:
   - Web3
   - DeFi
 private: false
-updated_at: '2024-05-15T15:53:45+09:00'
+updated_at: '2024-05-15T18:01:04+09:00'
 id: 81dcb6cae07d6a9fdbbd
 organization_url_name: bunzzdev
 slide: false

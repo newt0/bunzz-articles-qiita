@@ -13,7 +13,6 @@ organization_url_name: bunzzdev
 slide: false
 ignorePublish: false
 ---
-
 :::note info
 本記事は下記の翻訳となります。
 [『Smart Contract Verification Feature Available in Bunzz』](https://medium.com/@bunzzdev/smart-contract-verification-feature-available-in-bunzz-e0a0eeac78c5)
@@ -67,7 +66,7 @@ Bunzz で展開するすべてのスマートコントラクトのソースコ�
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/1926720/b0b75be5-058c-73d2-4784-204bc45e3f50.png)
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/1926720/04cefd37-feac-0743-b7c9-e54be448e0bc.png)
 
-以上で、Bunzz に展開したスマートコントラクトモジュールが Verify されました！
+以上で、Bunzz に展開したスマートコントラクトモジュールが Verfiy されました！
 
 ---
 
