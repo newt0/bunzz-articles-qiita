@@ -1,5 +1,5 @@
 ---
-title: NFTの革命：ERC-6551の力を解き放つ
+title: '[翻訳] NFTの革命：ERC-6551の力を解き放つ'
 tags:
   - ブロックチェーン
   - NFT
@@ -7,7 +7,7 @@ tags:
   - Web3
   - DeFi
 private: false
-updated_at: '2024-05-15T17:27:39+09:00'
+updated_at: '2024-07-10T16:57:35+09:00'
 id: c39ec38354b14cb56f0d
 organization_url_name: null
 slide: false

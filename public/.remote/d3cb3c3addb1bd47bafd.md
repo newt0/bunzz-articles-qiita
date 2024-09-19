@@ -1,5 +1,5 @@
 ---
-title: ERC1155D【Bunzzスマートコントラクトモジュール】
+title: '[翻訳] ERC1155D【Bunzzスマートコントラクトモジュール】'
 tags:
   - Ethereum
   - 仮想通貨
@@ -7,7 +7,7 @@ tags:
   - DApps
   - Web3
 private: false
-updated_at: '2024-05-15T14:28:47+09:00'
+updated_at: '2024-07-10T16:56:20+09:00'
 id: d3cb3c3addb1bd47bafd
 organization_url_name: bunzzdev
 slide: false

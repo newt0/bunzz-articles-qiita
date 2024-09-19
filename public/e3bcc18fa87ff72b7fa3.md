@@ -1,5 +1,5 @@
 ---
-title: Bunzzとの楽しいFunDityの構築：Salem Olaoyeへのインタビュー
+title: '[翻訳] Bunzzとの楽しいFunDityの構築：Salem Olaoyeへのインタビュー'
 tags:
   - 仮想通貨
   - ブロックチェーン
@@ -7,7 +7,7 @@ tags:
   - Web3
   - DeFi
 private: false
-updated_at: '2024-05-15T15:57:24+09:00'
+updated_at: '2024-07-10T16:54:11+09:00'
 id: e3bcc18fa87ff72b7fa3
 organization_url_name: bunzzdev
 slide: false

@@ -1,5 +1,5 @@
 ---
-title: スマートコントラクトの将来を確保するために、EUの法律がキルスイッチの実装を義務付けています。
+title: '[翻訳] スマートコントラクトの将来を確保するために、EUの法律がキルスイッチの実装を義務付けています。'
 tags:
   - ブロックチェーン
   - DApps
@@ -7,7 +7,7 @@ tags:
   - DeFi
   - ノーコード
 private: false
-updated_at: '2024-05-15T17:29:03+09:00'
+updated_at: '2024-07-10T16:52:14+09:00'
 id: 2ebe7bb52adc656289fa
 organization_url_name: bunzzdev
 slide: false

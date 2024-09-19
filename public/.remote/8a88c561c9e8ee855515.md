@@ -1,5 +1,5 @@
 ---
-title: ゼロ知識証明（ZKP）の理解
+title: '[翻訳] ゼロ知識証明（ZKP）の理解'
 tags:
   - ブロックチェーン
   - DApps
@@ -7,7 +7,7 @@ tags:
   - DeFi
   - ノーコード
 private: false
-updated_at: '2024-05-15T17:30:22+09:00'
+updated_at: '2024-07-10T16:52:07+09:00'
 id: 8a88c561c9e8ee855515
 organization_url_name: bunzzdev
 slide: false

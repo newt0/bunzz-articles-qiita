@@ -1,5 +1,5 @@
 ---
-title: 監査するまでデプロイしないでください！究極のスマートコントラクトチェックリスト
+title: '[翻訳] 監査するまでデプロイしないでください！究極のスマートコントラクトチェックリスト'
 tags:
   - Ethereum
   - スマートコントラクト
@@ -7,7 +7,7 @@ tags:
   - DApps
   - Web3
 private: false
-updated_at: '2024-05-15T17:31:59+09:00'
+updated_at: '2024-07-10T16:51:49+09:00'
 id: deea36db9f38e2d9dcce
 organization_url_name: bunzzdev
 slide: false

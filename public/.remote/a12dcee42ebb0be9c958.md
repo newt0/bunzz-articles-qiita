@@ -1,5 +1,5 @@
 ---
-title: ビジネスがブロックチェーン技術を必要とする7つの理由
+title: '[翻訳] ビジネスがブロックチェーン技術を必要とする7つの理由'
 tags:
   - Ethereum
   - 仮想通貨
@@ -7,7 +7,7 @@ tags:
   - DApps
   - Web3
 private: false
-updated_at: '2024-05-15T16:11:36+09:00'
+updated_at: '2024-07-10T16:52:56+09:00'
 id: a12dcee42ebb0be9c958
 organization_url_name: bunzzdev
 slide: false

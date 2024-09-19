@@ -1,5 +1,5 @@
 ---
-title: コントラクトをローカルにデプロイする際のプライベートキーのハッキングリスク
+title: '[翻訳] コントラクトをローカルにデプロイする際のプライベートキーのハッキングリスク'
 tags:
   - ブロックチェーン
   - DApps
@@ -7,7 +7,7 @@ tags:
   - DeFi
   - ノーコード
 private: false
-updated_at: '2024-05-15T17:48:13+09:00'
+updated_at: '2024-07-10T16:49:53+09:00'
 id: 3070c285f131c37c84f1
 organization_url_name: bunzzdev
 slide: false

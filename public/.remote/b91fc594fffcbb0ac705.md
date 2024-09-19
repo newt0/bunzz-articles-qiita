@@ -1,5 +1,5 @@
 ---
-title: Bunzzで利用可能なスマートコントラクトのVerify機能
+title: '[翻訳] Bunzzで利用可能なスマートコントラクトのVerify機能'
 tags:
   - Ethereum
   - 仮想通貨
@@ -7,7 +7,7 @@ tags:
   - DApps
   - Web3
 private: false
-updated_at: '2024-05-15T16:07:39+09:00'
+updated_at: '2024-07-10T16:53:31+09:00'
 id: b91fc594fffcbb0ac705
 organization_url_name: bunzzdev
 slide: false

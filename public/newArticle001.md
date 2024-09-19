@@ -1,5 +1,5 @@
 ---
-title: EIP 4844の理解：初心者ガイド
+title: '[翻訳] EIP 4844の理解：初心者ガイド'
 tags:
   - ブロックチェーン
   - DApps
@@ -7,7 +7,7 @@ tags:
   - DeFi
   - ノーコード
 private: false
-updated_at: '2024-05-15T17:25:58+09:00'
+updated_at: '2024-07-10T16:57:28+09:00'
 id: b6aeaafb27187b841569
 organization_url_name: null
 slide: false

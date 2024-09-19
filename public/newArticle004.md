@@ -1,5 +1,5 @@
 ---
-title: すべての開発者が知っておくべき3つの低コストスマートコントラクト監査のヒント
+title: '[翻訳] すべての開発者が知っておくべき3つの低コストスマートコントラクト監査のヒント'
 tags:
   - ブロックチェーン
   - DApps
@@ -7,7 +7,7 @@ tags:
   - DeFi
   - ノーコード
 private: false
-updated_at: '2024-05-15T17:30:31+09:00'
+updated_at: '2024-07-10T16:51:57+09:00'
 id: 411932bf0a97c8f635e9
 organization_url_name: bunzzdev
 slide: false
